@@ -1,4 +1,4 @@
-import FooterContainer from './Footer';
+import FooterContainer from './components/footer-component/Footer';
 
 function App() {
   return (

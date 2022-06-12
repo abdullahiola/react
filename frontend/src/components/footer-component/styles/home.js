@@ -1,5 +1,5 @@
 import React from 'react';
-import { CwayLogo, Copy, Container, Wrapper, Row, Column, Link, Title, Horizontal } from '../footer/styles/footer.styles';
+import { CwayLogo, Copy, Container, Wrapper, Row, Column, Link, Title, Horizontal } from '../styles/footer.styles';
 
 export default function Footer({ children, ...restProps }) {
   return <Container {...restProps}>{children}</Container>;
